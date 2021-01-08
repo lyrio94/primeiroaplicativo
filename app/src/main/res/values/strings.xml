@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="app_name">Rick and Morty</string>
+    <string name="btLogin">Entrar</string>
+    <string name="tvForgotPassword">Esqueceu a Senha? Clique aqui!</string>
+    <string name="tvRegister">Não tem cadastro? Cadastre-se AQUI!</string>
+    <string name="email_hint">E-mail</string>
+    <string name="password_hint">Senha</string>
+
+
+    <string name="email_required">E-mail obrigatório!</string>
+    <string name="password_required">Senha obrigatória!</string>
+    <string name="password_confirm">Confirmacao de senha e senha diferentes!</string>
+    <string name="password_6_char">Senha maior que 6 cacacteres!</string>
+    <string name="register_error">Email invalido ou usuário já cadastrado!</string>
+    <string name="login_error">Erro no login, Verifique os dados!</string>
+
+
+    <string name="btRegister">Cadastrar</string>
+    <string name="btBackRegister">Voltar</string>
+    <string name="retype_password_hint">Repetir a senha</string>
+    <string name="email_register">E-mail obrigatório!</string>
+    <string name="password_register">Senha obrigatória!</string>
+    <string name="password_register_confirm">Confirmação de senha obrigatória!</string>
+
+
+    <string name="btChamarAPI">Chamar API</string>
+    <string name="recuperar_senha">Recuperar Senha</string>
+    <string name="digite_seu_e_mail_cadastrado">Digite seu E-mail Cadastrado</string>
+
+</resources>

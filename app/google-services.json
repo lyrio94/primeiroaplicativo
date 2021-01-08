@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "871979310358",
+    "firebase_url": "https://meuapp-10713.firebaseio.com",
+    "project_id": "meuapp-10713",
+    "storage_bucket": "meuapp-10713.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871979310358:android:41e88c01db6d95e6ba8437",
+        "android_client_info": {
+          "package_name": "projeto.iesb.br.primeiroapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871979310358-tqbmoe33n532m7hakg44hhj9rhkootui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCYTscEJf_qsjAj36ZfyiZTOkg83JjfdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871979310358-tqbmoe33n532m7hakg44hhj9rhkootui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
